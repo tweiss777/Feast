@@ -5,7 +5,7 @@
 //  Created by Tal Weiss on 11/11/16.
 //  Copyright © 2016 Tal Weiss. All rights reserved.
 //
-
+//WARNING! THIS SWIFT FILE IS INCOMPLETE AND WILL NOT RUN PROPERLY
 import UIKit
 import Contacts
 import ContactsUI
